@@ -32,6 +32,8 @@ What is @MapsId
 
 @JoinColumns syntax
 
+Hibernate N+1 Problem.
+
 ------------------------------------------------------------------------------------------------------
 
 Spring Rest 
