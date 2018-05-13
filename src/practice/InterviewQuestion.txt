@@ -30,6 +30,8 @@ ManytoOne mapping with syntax
 
 What is @MapsId
 
+@JoinColumns syntax
+
 ------------------------------------------------------------------------------------------------------
 
 Spring Rest 
