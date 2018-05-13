@@ -14,13 +14,23 @@ Multithreading example in your project.
 
 Map and HashMap which one to use.
 
-Sigleton pattern explanation.
+Singleton pattern explanation.
+
+Internal working of hashmap and concurrent hash map.
+
+What is segment in concurrent hashmap.
+
+How concurrent hash map is thread safe.
+
+Linked hash map use.
 
 -------------------------------------------------------------------------------------------------------
 
 Spring 
 
 Prototype object inside Singleton object in spring.
+
+Different type of scope
 
 -------------------------------------------------------------------------------------------------------
 
@@ -34,6 +44,8 @@ What is @MapsId
 
 Hibernate N+1 Problem.
 
+@Autowired(required = false) use
+
 ------------------------------------------------------------------------------------------------------
 
 Spring Rest 
@@ -41,6 +53,7 @@ Spring Rest
 REST API versioning 
 HTTP Verbs
 Pagination in spring rest
+Rest controller and controller difference
 
 -----------------------------------------------------------------------------------------------------
 
