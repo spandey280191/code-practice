@@ -24,6 +24,8 @@ How concurrent hash map is thread safe.
 
 Linked hash map use.
 
+Garbage collection, JVM memory model.
+
 -------------------------------------------------------------------------------------------------------
 
 Spring 
@@ -60,4 +62,4 @@ Rest controller and controller difference
 Database
 
 Clustered and Non clustered index
-
+Find Nth maximum using single database query.
