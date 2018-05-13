@@ -1,0 +1,46 @@
+Interview questions 
+
+Java
+
+Comparable and Comparator with syntax
+
+ConcurrentHashMap iteration 
+
+rehashing in java collection 
+
+aggregation composition association
+
+Multithreading example in your project.
+
+Map and HashMap which one to use.
+
+Sigleton pattern explanation.
+
+-------------------------------------------------------------------------------------------------------
+
+Spring 
+
+Prototype object inside Singleton object in spring.
+
+-------------------------------------------------------------------------------------------------------
+
+Hibernate
+
+ManytoOne mapping with syntax
+
+What is @MapsId
+
+------------------------------------------------------------------------------------------------------
+
+Spring Rest 
+
+REST API versioning 
+HTTP Verbs
+Pagination in spring rest
+
+-----------------------------------------------------------------------------------------------------
+
+Database
+
+Clustered and Non clustered index
+
