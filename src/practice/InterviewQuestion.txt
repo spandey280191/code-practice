@@ -36,6 +36,10 @@ Different type of scope
 
 Spring Bean life cycle.
 
+Spring security and HandlerInterceptorAdaptor
+
+Global Exception Handler
+
 -------------------------------------------------------------------------------------------------------
 
 Hibernate
