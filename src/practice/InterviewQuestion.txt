@@ -26,6 +26,8 @@ Linked hash map use.
 
 Garbage collection, JVM memory model.
 
+Solid Principles
+
 -------------------------------------------------------------------------------------------------------
 
 Spring 
