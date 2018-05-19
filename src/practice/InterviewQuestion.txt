@@ -30,6 +30,8 @@ Solid Principles
 
 https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/
 
+equals and hashcode method override, how to restrict subcalss from using super class equals method.
+
 -------------------------------------------------------------------------------------------------------
 
 Spring 
