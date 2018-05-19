@@ -28,6 +28,8 @@ Garbage collection, JVM memory model.
 
 Solid Principles
 
+https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/
+
 -------------------------------------------------------------------------------------------------------
 
 Spring 
