@@ -71,3 +71,7 @@ Database
 
 Clustered and Non clustered index
 Find Nth maximum using single database query.
+-----------------------------------------------
+Coding Questions
+
+Reverse the LinkedList, Find loop in LinkedList, Program to Find Anagram, Program to check Armstrong Number, Program for Pallindrome and string permutation. Working of Hashmaps? 
