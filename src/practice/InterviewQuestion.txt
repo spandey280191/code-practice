@@ -1,0 +1,81 @@
+Interview questions 
+
+Java
+
+Comparable and Comparator with syntax
+
+ConcurrentHashMap iteration 
+
+rehashing in java collection 
+
+aggregation composition association
+
+Multithreading example in your project.
+
+Map and HashMap which one to use.
+
+Singleton pattern explanation.
+
+Internal working of hashmap and concurrent hash map.
+
+What is segment in concurrent hashmap.
+
+How concurrent hash map is thread safe.
+
+Linked hash map use.
+
+Garbage collection, JVM memory model.
+
+Solid Principles
+
+https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/
+
+equals and hashcode method override, how to restrict subcalss from using super class equals method.
+
+-------------------------------------------------------------------------------------------------------
+
+Spring 
+
+Prototype object inside Singleton object in spring.
+
+Different type of scope
+
+Spring Bean life cycle.
+
+Spring security and HandlerInterceptorAdaptor
+
+Global Exception Handler
+
+-------------------------------------------------------------------------------------------------------
+
+Hibernate
+
+ManytoOne mapping with syntax
+
+What is @MapsId
+
+@JoinColumns syntax
+
+Hibernate N+1 Problem.
+
+@Autowired(required = false) use
+
+------------------------------------------------------------------------------------------------------
+
+Spring Rest 
+
+REST API versioning 
+HTTP Verbs
+Pagination in spring rest
+Rest controller and controller difference
+
+-----------------------------------------------------------------------------------------------------
+
+Database
+
+Clustered and Non clustered index
+Find Nth maximum using single database query.
+-----------------------------------------------
+Coding Questions
+
+Reverse the LinkedList, Find loop in LinkedList, Program to Find Anagram, Program to check Armstrong Number, Program for Pallindrome and string permutation. Working of Hashmaps? 
