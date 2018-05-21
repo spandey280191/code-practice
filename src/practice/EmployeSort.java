@@ -87,7 +87,7 @@ public class EmployeSort {
 		empList.add(new Employee(3, "Abdul"));
 		
 		
-		
+		// bubble sort
 		for(int i=0;i<empList.size();i++){
 			for(int j=0;j<empList.size()-i-1;j++){
 				int result=compare(empList.get(j), empList.get(j+1));
