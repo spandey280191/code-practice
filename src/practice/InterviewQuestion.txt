@@ -69,6 +69,10 @@ HTTP Verbs
 Pagination in spring rest
 Rest controller and controller difference
 
+Spring rest vs SOAP 
+
+Webservice vs JMS
+
 -----------------------------------------------------------------------------------------------------
 
 Database
