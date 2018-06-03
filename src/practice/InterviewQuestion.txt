@@ -32,6 +32,13 @@ https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization
 
 equals and hashcode method override, how to restrict subcalss from using super class equals method.
 
+how java do overloading/overriding internally
+
+how to create only 11 instacne of a class
+
+how to redirect out put of System.out to file.
+
+How to handle ERROR in java.
 -------------------------------------------------------------------------------------------------------
 
 Spring 
@@ -73,6 +80,7 @@ Spring rest vs SOAP
 
 Webservice vs JMS
 
+URI best practices
 -----------------------------------------------------------------------------------------------------
 
 Database
@@ -83,3 +91,7 @@ Find Nth maximum using single database query.
 Coding Questions
 
 Reverse the LinkedList, Find loop in LinkedList, Program to Find Anagram, Program to check Armstrong Number, Program for Pallindrome and string permutation. Working of Hashmaps? 
+-----------------------------------------------------------------------------------------------------
+
+JMS MDP vs MDB
+Maven deploy command
