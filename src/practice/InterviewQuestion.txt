@@ -39,6 +39,16 @@ how to create only 11 instacne of a class
 how to redirect out put of System.out to file.
 
 How to handle ERROR in java.
+
+can inner class extend any class or interface.
+
+what will happen if variable is defined after inner class declaration.
+
+double 10.0/0 and -10.0/0 ans
+
+What if array is passed to another method and changed its value will it get reflected in original array.
+
+What if class has defined public static void main in super class and sub class inherit it.
 -------------------------------------------------------------------------------------------------------
 
 Spring 
