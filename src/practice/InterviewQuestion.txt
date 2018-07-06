@@ -105,3 +105,16 @@ Reverse the LinkedList, Find loop in LinkedList, Program to Find Anagram, Progra
 
 JMS MDP vs MDB
 Maven deploy command
+
+---------------------------------
+RedHat
+
+1.ttl 
+2.singleton 
+3.factory n abstact fac diff 
+4. observer 
+5. jta 
+6. increase thread in camel 
+7. camel mai parallel processing hoti hai ya kaise 
+8. jboss domain slave configuration 
+9. acknowledgement modes 
