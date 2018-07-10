@@ -53,6 +53,8 @@ What if class has defined public static void main in super class and sub class i
 
 Spring 
 
+Spring circular dependecy problem.
+
 Prototype object inside Singleton object in spring.
 
 Different type of scope
