@@ -32,9 +32,28 @@ https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization
 
 equals and hashcode method override, how to restrict subcalss from using super class equals method.
 
+how java do overloading/overriding internally
+
+how to create only 11 instacne of a class
+
+how to redirect out put of System.out to file.
+
+How to handle ERROR in java.
+
+can inner class extend any class or interface.
+
+what will happen if variable is defined after inner class declaration.
+
+double 10.0/0 and -10.0/0 ans
+
+What if array is passed to another method and changed its value will it get reflected in original array.
+
+What if class has defined public static void main in super class and sub class inherit it.
 -------------------------------------------------------------------------------------------------------
 
 Spring 
+
+Spring circular dependecy problem.
 
 Prototype object inside Singleton object in spring.
 
@@ -73,6 +92,7 @@ Spring rest vs SOAP
 
 Webservice vs JMS
 
+URI best practices
 -----------------------------------------------------------------------------------------------------
 
 Database
@@ -83,3 +103,20 @@ Find Nth maximum using single database query.
 Coding Questions
 
 Reverse the LinkedList, Find loop in LinkedList, Program to Find Anagram, Program to check Armstrong Number, Program for Pallindrome and string permutation. Working of Hashmaps? 
+-----------------------------------------------------------------------------------------------------
+
+JMS MDP vs MDB
+Maven deploy command
+
+---------------------------------
+RedHat
+
+1.ttl 
+2.singleton 
+3.factory n abstact fac diff 
+4. observer 
+5. jta 
+6. increase thread in camel 
+7. camel mai parallel processing hoti hai ya kaise 
+8. jboss domain slave configuration 
+9. acknowledgement modes 
