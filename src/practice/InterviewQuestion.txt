@@ -120,3 +120,23 @@ RedHat
 7. camel mai parallel processing hoti hai ya kaise 
 8. jboss domain slave configuration 
 9. acknowledgement modes 
+
+Teioto
+
+methods in object class 
+relation betw hashcode and equals methos 
+thread , runnable and callable 
+bean lifecycle 
+hashmap & treemap. adv of hashmap overtreemao 
+collection framework hierarcy 
+httpmethods 
+authentication in web service 
+what is esb n advantages 
+eip 
+compile,provided,test 
+materials in maven 
+plugins in maven 
+route example 
+before bean destroy 
+appliaction properties in spring boot 
+@value annotation 
