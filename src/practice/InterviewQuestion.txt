@@ -32,7 +32,7 @@ Java
 24.What if array is passed to another method and changed its value will it get reflected in original array.
 25.What if class has defined public static void main in super class and sub class inherit it.
 
-26.explain class loader and its type
+26.explain class loader and its types
 27.how to read heap dump
 28.anonymous inner class
 29.jvm architecture
@@ -85,6 +85,7 @@ Database
 3.primary key unique key and foriegn key
 4. different types of join
 5.when to use self join
+6. Swap Column values (say gender) from F to M and from M to F
 
 -----------------------------------------------
 Coding Questions
