@@ -2,103 +2,90 @@ Interview questions
 
 Java
 
-Comparable and Comparator with syntax
+1.Comparable and Comparator with syntax
+2.ConcurrentHashMap iteration 
+3.rehashing in java collection 
+4.aggregation composition association
+5.Multithreading example in your project.
 
-ConcurrentHashMap iteration 
+6.Map and HashMap which one to use.
+7.Singleton pattern explanation.
+8.Observer Pattern
+9.Internal working of hashmap and concurrent hash map.
+10.What is segment in concurrent hashmap.
 
-rehashing in java collection 
+11.How concurrent hash map is thread safe.
+12.Linked hash map use.
+13.Garbage collection, JVM memory model.
+14.Solid Principles
+15.https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/
 
-aggregation composition association
+16.equals and hashcode method override, how to restrict subcalss from using super class equals method.
+17.how java do overloading/overriding internally
+18.how to create only 11 instacne of a class
+19.how to redirect out put of System.out to file.
+20.How to handle ERROR in java.
 
-Multithreading example in your project.
+21.can inner class extend any class or interface.
+22.what will happen if variable is defined after inner class declaration.
+23.double 10.0/0 and -10.0/0 ans
+24.What if array is passed to another method and changed its value will it get reflected in original array.
+25.What if class has defined public static void main in super class and sub class inherit it.
 
-Map and HashMap which one to use.
+26.explain class loader and its type
+27.how to read heap dump
+28.anonymous inner class
+29.jvm architecture
+30.can we use super in interface
 
-Singleton pattern explanation.
+31.try with resource
+32.functional interface, static and default methods
+33.encapsulation and abstraction
+34.Mockito doThrow and doReturn
 
-Internal working of hashmap and concurrent hash map.
-
-What is segment in concurrent hashmap.
-
-How concurrent hash map is thread safe.
-
-Linked hash map use.
-
-Garbage collection, JVM memory model.
-
-Solid Principles
-
-https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/
-
-equals and hashcode method override, how to restrict subcalss from using super class equals method.
-
-how java do overloading/overriding internally
-
-how to create only 11 instacne of a class
-
-how to redirect out put of System.out to file.
-
-How to handle ERROR in java.
-
-can inner class extend any class or interface.
-
-what will happen if variable is defined after inner class declaration.
-
-double 10.0/0 and -10.0/0 ans
-
-What if array is passed to another method and changed its value will it get reflected in original array.
-
-What if class has defined public static void main in super class and sub class inherit it.
 -------------------------------------------------------------------------------------------------------
 
 Spring 
 
-Spring circular dependecy problem.
-
-Prototype object inside Singleton object in spring.
-
-Different type of scope
-
-Spring Bean life cycle.
-
-Spring security and HandlerInterceptorAdaptor
-
-Global Exception Handler
-
+1.Spring circular dependecy problem.
+2.Prototype object inside Singleton object in spring.
+3.Different type of scope
+4.Spring Bean life cycle.
+5.Spring security and HandlerInterceptorAdaptor
+6.Global Exception Handler
+7.explain aanontaion Qualifier,service,controller,restcontroller,repository,component
+8.difference between session and global session
 -------------------------------------------------------------------------------------------------------
 
 Hibernate
 
-ManytoOne mapping with syntax
-
-What is @MapsId
-
-@JoinColumns syntax
-
-Hibernate N+1 Problem.
-
-@Autowired(required = false) use
+1.ManytoOne mapping with syntax
+2.What is @MapsId
+3.@JoinColumns syntax
+4.Hibernate N+1 Problem.
+5.@Autowired(required = false) use
 
 ------------------------------------------------------------------------------------------------------
 
 Spring Rest 
 
-REST API versioning 
-HTTP Verbs
-Pagination in spring rest
-Rest controller and controller difference
-
-Spring rest vs SOAP 
-
-Webservice vs JMS
-
-URI best practices
+1.REST API versioning 
+2.HTTP Verbs
+3.Pagination in spring rest
+4.Rest controller and controller difference
+5.Spring rest vs SOAP 
+6.Webservice vs JMS
+7.URI best practices
 -----------------------------------------------------------------------------------------------------
 
 Database
 
-Clustered and Non clustered index
-Find Nth maximum using single database query.
+1.Clustered and Non clustered index
+2.Find Nth maximum using single database query.
+3.primary key unique key and foriegn key
+4. different types of join
+5.when to use self join
+
 -----------------------------------------------
 Coding Questions
 
@@ -120,8 +107,9 @@ RedHat
 7. camel mai parallel processing hoti hai ya kaise 
 8. jboss domain slave configuration 
 9. acknowledgement modes 
+10.filters 
 
-Teioto
+Tieto
 
 methods in object class 
 relation betw hashcode and equals methos 
