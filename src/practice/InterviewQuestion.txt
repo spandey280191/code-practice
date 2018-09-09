@@ -55,6 +55,7 @@ Spring
 6.Global Exception Handler
 7.explain aanontaion Qualifier,service,controller,restcontroller,repository,component
 8.difference between session and global session
+9.RequestParam annotation
 -------------------------------------------------------------------------------------------------------
 
 Hibernate
