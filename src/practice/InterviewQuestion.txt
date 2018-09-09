@@ -42,7 +42,7 @@ Java
 32.functional interface, static and default methods
 33.encapsulation and abstraction
 34.Mockito doThrow and doReturn
-
+35.Generics in Java
 -------------------------------------------------------------------------------------------------------
 
 Spring 
@@ -64,7 +64,7 @@ Hibernate
 3.@JoinColumns syntax
 4.Hibernate N+1 Problem.
 5.@Autowired(required = false) use
-
+6.Isolation levels of database
 ------------------------------------------------------------------------------------------------------
 
 Spring Rest 
