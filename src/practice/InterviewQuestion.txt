@@ -59,6 +59,7 @@ Spring
 8.difference between session and global session
 9.RequestParam annotation
 10.Spring bean default lazy or not?
+11.Session scope is related to httpsession object?
 -------------------------------------------------------------------------------------------------------
 
 Hibernate
