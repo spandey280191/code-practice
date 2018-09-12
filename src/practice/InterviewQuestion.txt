@@ -43,6 +43,8 @@ Java
 33.encapsulation and abstraction
 34.Mockito doThrow and doReturn
 35.Generics in Java
+36.List<Parent> p = new Arraylist<child> is this possible?
+37.Data hiding concept with variable in java.
 -------------------------------------------------------------------------------------------------------
 
 Spring 
@@ -56,6 +58,7 @@ Spring
 7.explain aanontaion Qualifier,service,controller,restcontroller,repository,component
 8.difference between session and global session
 9.RequestParam annotation
+10.Spring bean default lazy or not?
 -------------------------------------------------------------------------------------------------------
 
 Hibernate
@@ -66,6 +69,12 @@ Hibernate
 4.Hibernate N+1 Problem.
 5.@Autowired(required = false) use
 6.Isolation levels of database
+7.In a parent child relation child object is not fetched what this is called.
+8.session.opensession or session.getSession (ans opensession)
+9.Session can not be shared between two threads
+10.Hibernate object state
+11.Dirty checking in hibernate.
+12.Root element of hibernate
 ------------------------------------------------------------------------------------------------------
 
 Spring Rest 
@@ -87,6 +96,10 @@ Database
 4. different types of join
 5.when to use self join
 6. Swap Column values (say gender) from F to M and from M to F
+7.Prepared statement and statement difference
+8.insert into temp Select 1 union 
+select 2 union
+select 3
 
 -----------------------------------------------
 Coding Questions
