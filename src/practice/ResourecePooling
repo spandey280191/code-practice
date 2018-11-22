@@ -1,0 +1,103 @@
+import java.util.concurrent.ConcurrentLinkedQueue;
+import java.util.concurrent.Semaphore;
+
+class Resource {
+
+	private int id;
+
+	Resource(int id) {
+		this.id = id;
+	}
+
+	public int getId() {
+
+		return id;
+
+	}
+
+}
+
+class ThreadClass implements Runnable {
+
+	ResourecePooling rp;
+
+	ThreadClass(ResourecePooling rp) {
+		this.rp = rp;
+	}
+
+	@Override
+	public void run() {
+		for (int i = 0; i < 100; i++) {
+			Resource r = rp.getResource();
+			try {
+				System.out.println(r.getId());
+				Thread.sleep(1000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			rp.releaseResource(r);
+		}
+
+	}
+
+}
+
+public class ResourecePooling {
+
+	final int MAX;
+	Semaphore s;
+	ConcurrentLinkedQueue<Resource> list = new ConcurrentLinkedQueue<>();
+
+	ResourecePooling(int num) {
+		this.MAX = num;
+		this.s = new Semaphore(this.MAX);
+		initializePool();
+	}
+
+	private void initializePool() {
+
+		for (int i = 0; i < this.MAX; i++) {
+			list.add(new Resource(i + 1));
+		}
+
+	}
+
+	public synchronized Resource getResource() {
+
+		try {
+			s.acquire();
+			System.out.println("acquiring lock " + s.availablePermits());
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		return list.poll();
+	}
+
+	public void releaseResource(Resource resource) {
+		list.add(resource);
+		s.release();
+
+	}
+
+	public static void main(String args[]) {
+
+		ResourecePooling rp = new ResourecePooling(3);
+
+		ThreadClass tc1 = new ThreadClass(rp);
+		Thread t1 = new Thread(tc1);
+		Thread t2 = new Thread(tc1);
+		Thread t3 = new Thread(tc1);
+		Thread t4 = new Thread(tc1);
+		Thread t5 = new Thread(tc1);
+
+		t1.start();
+		t2.start();
+		t3.start();
+		t4.start();
+		t5.start();
+
+	}
+}
