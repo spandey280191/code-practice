@@ -1,0 +1,47 @@
+public class Base62 {
+
+	String str = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+	char arr[];
+	public Base62() {
+		arr=str.toCharArray();
+	}
+	
+	public String intToChar(int val) {
+		String result="";
+		while(val>0) {
+			int index = val%62;
+			result = result + arr[index];
+			val = val/62;
+		}
+		return new StringBuilder(result).reverse().toString();
+	}
+	
+	public int stringToInt(String str) {
+		int id=0;
+		char shortArr[] = str.toCharArray();
+		for(int i = 0; i< str.length();i++) {
+			 if ('a' <= shortArr[i] && shortArr[i] <= 'z') 
+		          id = id*62 + shortArr[i] - 'a'; 
+		        if ('A' <= shortArr[i] && shortArr[i] <= 'Z') 
+		          id = id*62 + shortArr[i] - 'A' + 26; 
+		        if ('0' <= shortArr[i] && shortArr[i] <= '9') 
+		          id = id*62 + shortArr[i] - '0' + 52;
+		        
+		}
+		
+		return id;
+			
+	}
+	
+	public static void main(String args[]) {
+		
+		Base62 b = new Base62();
+		String str = b.intToChar(1234);
+		System.out.println(str);
+		int result = b.stringToInt(str);
+		System.out.println(result);
+		
+		
+	}
+	
+}
