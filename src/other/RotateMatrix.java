@@ -1,4 +1,4 @@
-package leetCode;
+package other;
 class Solution18 {
     public void rotate(int[][] matrix) {
         

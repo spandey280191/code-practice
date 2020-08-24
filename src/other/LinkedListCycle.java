@@ -1,4 +1,4 @@
-package leetCode;
+package other;
 class Solution25 {
     public boolean hasCycle(ListNode head) {
         

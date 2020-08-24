@@ -1,4 +1,4 @@
-package leetCode;
+package other;
 
 class Solution14 {
 public int search(int[] A, int target) {

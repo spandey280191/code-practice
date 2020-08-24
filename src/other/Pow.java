@@ -1,4 +1,4 @@
-package leetCode;
+package other;
 class Solution17 {
 	public double myPow(double x, int n) {
 

@@ -1,4 +1,4 @@
-package leetCode;
+package other;
 
 class Solution13 {
     public int divide(int dividend, int divisor) {

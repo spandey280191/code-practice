@@ -1,4 +1,4 @@
-package leetCode;
+package other;
 class Solution4 {
     public String longestPalindrome(String s) {
         boolean[][] dp = new boolean[s.length()][s.length()];

@@ -1,4 +1,4 @@
-package leetCode;
+package other;
 class Solution20 {
     public int[] plusOne(int[] digits) {
     	int temp=0;

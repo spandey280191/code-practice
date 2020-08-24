@@ -1,4 +1,4 @@
-package leetCode;
+package other;
 
 class Solution2 {
     public int maxSubArray(int[] nums) {
