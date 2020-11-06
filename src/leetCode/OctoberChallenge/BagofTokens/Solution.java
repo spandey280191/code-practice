@@ -1,4 +1,4 @@
-package leetCode.OctomberChallenge.BagofTokens;
+package leetCode.OctoberChallenge.BagofTokens;
 
 import java.util.Arrays;
 
