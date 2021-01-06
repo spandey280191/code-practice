@@ -1,4 +1,4 @@
-package leetCode.OctoberChallenge.ChampagneTower;
+package leetCode.MonthlyChallenge.ChampagneTower;
 
 public class Solution {
         public double champagneTower(int poured, int query_row, int query_glass) {
