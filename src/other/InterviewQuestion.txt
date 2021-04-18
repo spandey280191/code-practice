@@ -46,6 +46,10 @@ Java
 36.List<Parent> p = new Arraylist<child> is this possible?
 37.Data hiding concept with variable in java.
 38.What modifiers can be used (abstract/final/public/static) with method local inner class.
+39.Internal Working of Hashmap
+40.Internal working of LinkedHashMap
+41.LRU cache implementation
+42. Sort HashMap by values
 -------------------------------------------------------------------------------------------------------
 
 Spring 
