@@ -49,8 +49,8 @@ Java
 39.Internal Working of Hashmap
 40.Internal working of LinkedHashMap
 41.LRU cache implementation
-42. Sort HashMap by values
-43. Implement Queue using Stack
+42.Sort HashMap by values
+43.Implement Queue using Stack
 -------------------------------------------------------------------------------------------------------
 
 Spring 
